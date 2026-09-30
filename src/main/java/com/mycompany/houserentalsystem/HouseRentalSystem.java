@@ -12,5 +12,6 @@ public class HouseRentalSystem {
 
     public static void main(String[] args) {
         System.out.println("Hello DAYAN!");
+        System.out.println("Hello Crisitne!");
     }
 }
